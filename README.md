@@ -4,6 +4,7 @@ Requirements
 ============
 * aria2
 * curl
+
 Usage
 =====
 ./12clubdownloader [url] [download directory]

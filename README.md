@@ -1,5 +1,7 @@
 # 12clubdownloader
 download script of 12club in nankai
+
+It will download all the files in the page using aria2.
 Requirements
 ============
 * aria2

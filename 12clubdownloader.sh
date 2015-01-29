@@ -17,3 +17,4 @@ while read downloadaddress
 do
         aria2c --dir=$2 -x 3 http://12club.nankai.edu.cn/${downloadaddress}
     done < url.txt
+rm url.txt

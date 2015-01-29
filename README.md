@@ -7,6 +7,6 @@ Requirements
 
 Usage
 =====
-./12clubdownloader [url] [download directory]
+./12clubdownloader.sh [url] [download directory]
 
-For example:```./12clubdownloader http://12club.nankai.edu.cn/programs/1073 /home```
+For example:```./12clubdownloader.sh http://12club.nankai.edu.cn/programs/1073 /home```

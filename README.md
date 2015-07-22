@@ -3,7 +3,7 @@ download script of 12club in nankai
 
 It will download all the files in the page using aria2.
 
-It is a shell script, so if you use windows...... Don't even hope it can work on cmd or powershell, you should try a Cygwin environment such as MSYS2: http://sourceforge.net/projects/msys2/
+It is a shell script, so if you use windows...... Don't even hope it can work on cmd or powershell, you should try a Cygwin environment such as MSYS2: http://sourceforge.net/projects/msys2/. It works fine in MSYS2 on my computer.
 Requirements
 ============
 * aria2
